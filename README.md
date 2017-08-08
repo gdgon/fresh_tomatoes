@@ -7,7 +7,7 @@ Developed and tested with Python 2.7.
 ## Quickstart
 ```bash
 $ git clone https://github.com/gdgon/fresh_tomatoes
-$ cd fresh_tomatoes`
+$ cd fresh_tomatoes
 $ python2 entertainment_center.py
 ```
 

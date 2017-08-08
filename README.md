@@ -1,4 +1,4 @@
-fresh_tomatoes
+# fresh_tomatoes
 Create a simple webpage about your favorite movies along with their storylines, poster images, and trailers. This project was created as part of the Udacity Full Stack Nanodegree.
 
 ## Requirements

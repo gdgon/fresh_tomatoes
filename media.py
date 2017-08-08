@@ -2,10 +2,17 @@ class Movie():
     """Contains relevant information about a specific movie.
 
         Args:
-            title: The title of the movie
-            storyline: A short plot summary
-            poster_image_url: URL of the movie's poster image
-            trailer_youtube_url: YouTube page for the movie's trailer
+            title (str): The title of the movie
+            storyline (str): A short plot summary
+            poster_image_url (str): URL of the movie's poster image
+            trailer_youtube_url (str): YouTube page for the movie's trailer
+
+        Attributes:
+            title (str): The title of the movie
+            storyline (str): A short plot summary
+            poster_image_url (str): URL of the movie's poster image
+            trailer_youtube_url (str): YouTube page for the movie's trailer
+
     """
 
     def __init__(self, title, storyline, poster_image_url,

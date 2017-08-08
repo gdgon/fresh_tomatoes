@@ -4,8 +4,9 @@ import media
 
 # Initialize movie list
 movies = [media.Movie("The Godfather",
-                      "The patriarch of an organized crime dynasty transfers"
-                      " control to his reluctant son.",
+                      "The aging patriarch of an organized crime dynasty"
+                      " transfers control of his clandestine empire to his"
+                      " reluctant son.",
                       "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,704,1000_AL_.jpg",  # NOQA
                       "https://www.youtube.com/watch?v=lLThoR1S0QQ"),
 
